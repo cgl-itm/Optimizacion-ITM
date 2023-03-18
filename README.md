@@ -8,3 +8,6 @@ Material para curso de Optimización en Ingeniería Electrónica y Telecomunicac
 [Convex Optimization - Boyd](https://web.stanford.edu/~boyd/cvxbook/) <br>
 # Programas Lineales
 Nelson Uhan - [Notebook](https://github.com/nelsonuhan/simplex)
+
+# Cursos similares
+[Mathematical Optimizacion - Standford](https://web.stanford.edu/group/sisl/k12/optimization/#!index.md)
