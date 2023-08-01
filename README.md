@@ -15,3 +15,7 @@ Nelson Uhan - [Notebook](https://github.com/nelsonuhan/simplex)
 
 # Cursos similares
 [Mathematical Optimizacion - Standford](https://web.stanford.edu/group/sisl/k12/optimization/#!index.md)
+
+# Telecommunications
+[Optimization Methods in Antenna Engineering
+](https://link.springer.com/referenceworkentry/10.1007/978-981-4560-44-3_15)
