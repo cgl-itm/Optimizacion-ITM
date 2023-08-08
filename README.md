@@ -19,3 +19,10 @@ Nelson Uhan - [Notebook](https://github.com/nelsonuhan/simplex)
 # Telecommunications
 [Optimization Methods in Antenna Engineering
 ](https://link.springer.com/referenceworkentry/10.1007/978-981-4560-44-3_15)
+
+# Notebooks
+## Gradiente
+[Steepest Descent](https://github.com/mkozturk/notebooks/blob/master/Rosenbrock%2C%20steepest%20descent.ipynb) <br>
+[Newton's Method](https://github.com/mkozturk/notebooks/blob/master/Rosenbrock%2C%20Newton's%20method.ipynb) <br>
+[Quasi-Newton Method](https://github.com/mkozturk/notebooks/blob/master/Rosenbrock%2C%20quasi-Newton%20methods.ipynb) <br>
+[Comparacion entre GD, SGD, Adam, Adagrad, RMSProp](https://github.com/bradleyboyuyang/Gradient-Descent/blob/master/GD_visualization.ipynb)
