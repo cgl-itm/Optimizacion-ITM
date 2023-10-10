@@ -19,7 +19,8 @@ Nelson Uhan - [Notebook](https://github.com/nelsonuhan/simplex)
 # Telecommunications
 [Optimization Methods in Antenna Engineering
 ](https://link.springer.com/referenceworkentry/10.1007/978-981-4560-44-3_15) <br>
-[Optimization for the Telecommunications Industry -  Gurobi](https://www.gurobi.com/industry/optimization-for-the-telecommunications-industry/)
+[Optimization for the Telecommunications Industry -  Gurobi](https://www.gurobi.com/industry/optimization-for-the-telecommunications-industry/) <br>
+[Cell tower optimization problem - Gurobi](https://www.gurobi.com/jupyter_models/cell-tower-coverage-problem/)
 
 # Notebooks
 ## Gradiente
