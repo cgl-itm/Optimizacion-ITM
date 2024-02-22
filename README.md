@@ -14,7 +14,8 @@ Material para curso de Optimización en Ingeniería Electrónica y Telecomunicac
 Nelson Uhan - [Notebook](https://github.com/nelsonuhan/simplex)
 
 # Cursos similares
-[Mathematical Optimization - Stanford](https://web.stanford.edu/group/sisl/k12/optimization/#!index.md)
+[Mathematical Optimization - Stanford](https://web.stanford.edu/group/sisl/k12/optimization/#!index.md) <br>
+[Machine Learning Refined - Optimization animations](https://github.com/jermwatt/machine_learning_refined)
 
 # Telecommunications
 [Optimization Methods in Antenna Engineering
