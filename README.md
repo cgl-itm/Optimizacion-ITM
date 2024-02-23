@@ -4,7 +4,7 @@ Material para curso de Optimización en Ingeniería Electrónica y Telecomunicac
 # Calendario
 | Semana |                             Tema                              |                  Material practico |
 | :-----------: | :--------------------------------------------------------------: |:----------------------------------------------------------------------------------------------------------------------------: | 
-|      01       |  Repaso algebra lineal y Definición de Problema de Optimización   |             | 
+|      01       |  Repaso Algebra Lineal y Definición de Problema de Optimización   |             | 
 |      02       |  Optimización sin restricciones: Primer Orden (Gradiente descendente) y Segundo Orden (Newton)    |  |
 |      03       |  Optimización con restricciones: Multiplicadores de Lagrange y KKT    |      | 
 |      04       |  Clase taller y Examen   |      | 
