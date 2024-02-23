@@ -1,6 +1,15 @@
 # Optimizacion-ITM
 Material para curso de Optimización en Ingeniería Electrónica y Telecomunicaciones del Instituto Tecnológico Metropolitano (ITM).
 
+# Calendario
+| Semana |                             Tema                              |                  Material practico |
+| :-----------: | :--------------------------------------------------------------: |:----------------------------------------------------------------------------------------------------------------------------: | 
+|      01       |  Repaso algebra lineal y Definicion de Optimización   |             | 
+|      02       |  Optimizacion sin restricciones: Primer Orden (Gradiente descendente) y Segundo Ornden (Newton)    |  |
+|      03       |  Optimizacion con restricciones: Multiplicadores de Lagrange y KKT    |      | 
+|      04       |  Clase taller y Examen   |      | 
+|      05       |  Programacion Orientada a Objetos   |      | 
+
 # Libros
 [Numerical Optimization - J. Nocedal & S.J. Writght](https://link.springer.com/content/pdf/10.1007/978-0-387-40065-5.pdf) <br>
 [Introduction to Optimization - E.K.P. Chong and S.H. Zak](https://github.com/benjamincrom/optimization/blob/master/An%20Introduction%20to%20Optimization-%20E.%20Chong%2C%20S.%20Zak.pdf) <br>
