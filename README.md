@@ -8,6 +8,8 @@ Material para curso de Optimización en Ingeniería Electrónica y Telecomunicac
 |      02       |  Optimización sin restricciones: Primer Orden (Gradiente descendente) y Segundo Orden (Newton)    |  |
 |      03       |  Optimización con restricciones: Multiplicadores de Lagrange y KKT    |      | 
 |      04       |  Clase taller y Examen   |      | 
+|      05       |  Programacion Lineal - Simplex   |      | 
+|      06       |  Programacion Lineal - Punto Interior   |      | 
 
 # Libros
 [Numerical Optimization - J. Nocedal & S.J. Writght](https://link.springer.com/content/pdf/10.1007/978-0-387-40065-5.pdf) <br>
