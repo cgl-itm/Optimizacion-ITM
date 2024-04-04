@@ -10,6 +10,8 @@ Material para curso de Optimización en Ingeniería Electrónica y Telecomunicac
 |      04       |  Clase taller y Examen   |      | 
 |      05       |  Programacion Lineal - Simplex   |      | 
 |      06       |  Programacion Lineal - Punto Interior   |      | 
+|      07       |  Tecnicas NLP - QPM ALM LBM |      | 
+|      08       |  Examen LP y KKT. Taller Tecnicas NLP  |      | 
 
 # Libros
 [Numerical Optimization - J. Nocedal & S.J. Writght](https://link.springer.com/content/pdf/10.1007/978-0-387-40065-5.pdf) <br>
