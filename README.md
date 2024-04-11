@@ -29,7 +29,9 @@ Material para curso de Optimización en Ingeniería Electrónica y Telecomunicac
 Nelson Uhan - [Notebook](https://github.com/nelsonuhan/simplex)
 
 # Programacion Entera Mixta (MIP)
+[Scipy MIP](https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.milp.html) <br>
 [MIP Python](https://python-mip.readthedocs.io/en/latest/examples.html) <br>
+[PuLP](https://coin-or.github.io/pulp/CaseStudies/index.html) <br>
 
 # Cursos similares
 [Mathematical Optimization - Stanford](https://web.stanford.edu/group/sisl/k12/optimization/#!index.md) <br>
