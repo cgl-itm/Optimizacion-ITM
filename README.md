@@ -52,3 +52,6 @@ Nelson Uhan - [Notebook](https://github.com/nelsonuhan/simplex)
 [Newton's Method](https://github.com/mkozturk/notebooks/blob/master/Rosenbrock%2C%20Newton's%20method.ipynb) <br>
 [Quasi-Newton Method](https://github.com/mkozturk/notebooks/blob/master/Rosenbrock%2C%20quasi-Newton%20methods.ipynb) <br>
 [Comparacion entre GD, SGD, Adam, Adagrad, RMSProp](https://github.com/bradleyboyuyang/Gradient-Descent/blob/master/GD_visualization.ipynb)
+
+# Links
+* [Awesome Optimization](https://github.com/ebrahimpichka/awesome-optimization?tab=readme-ov-file#video-lectures-and-courses)
