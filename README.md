@@ -26,13 +26,20 @@ Material para curso de Optimización en Ingeniería Electrónica y Telecomunicac
 # Librerias de Optimizacion en Python
 [Modeling and Solving Optimization Problems - Keivan Tafakkori](https://www.supplychaindataanalytics.com/modeling-and-solving-optimization-problems-in-python/) <br>
 
-# Programas Lineales
+## Programas Lineales
 Nelson Uhan - [Notebook](https://github.com/nelsonuhan/simplex)
 
-# Programacion Entera Mixta (MIP)
+## Programacion Entera Mixta (MIP)
 [Scipy MIP](https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.milp.html) <br>
 [MIP Python](https://python-mip.readthedocs.io/en/latest/examples.html) <br>
 [PuLP](https://coin-or.github.io/pulp/CaseStudies/index.html) <br>
+
+## Algoritmos Metaheuristicos
+* [pyMetaheuristic](https://github.com/Valdecy/pyMetaheuristic)
+* [mealPy](https://github.com/thieu1995/mealpy)
+* [EvoloPy](https://github.com/7ossam81/EvoloPy)
+* [MetaHeuristic.jl - Julia](https://github.com/jmejia8/Metaheuristics.jl)
+* 
 
 # Cursos similares
 * [Mathematical Optimization - Stanford](https://web.stanford.edu/group/sisl/k12/optimization/#!index.md) 
