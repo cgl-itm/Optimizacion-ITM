@@ -6,7 +6,7 @@ Material para curso de Optimización en Ingeniería Electrónica y Telecomunicac
 | :-----------: | :--------------------------------------------------------------: |:----------------------------------------------------------------------------------------------------------------------------: | 
 |      01       |  Repaso Algebra Lineal: Vectores, Norma, Producto Punto, Matrices, Valores Propios, Determinante. Definición de Problema de Optimización: Funcion objetivo, restricciones de igualdad y desigualdad. Minimo local y global.  |    [Taller 1 - Algebra Lineal](https://github.com/cgl-itm/Optimizacion-ITM/blob/main/Talleres/1_Taller_Algebra_Lineal.pdf) [Numpy - Vectores](https://github.com/cgl-itm/Optimizacion-ITM/blob/main/notebooks/00_Matrices_Numpy.ipynb) [Numpy - Matrices](https://github.com/cgl-itm/Optimizacion-ITM/blob/main/notebooks/00_Vectores_Numpy.ipynb)         | 
 |      02       |  Optimización sin restricciones: Primer Orden (Gradiente descendente)    |  |
-|      03       |  Optimización sin restricciones: Segundo Orden. Optimización con restricciones: Multiplicadores de Lagrange y Condiciones KKT |      | 
+|      03       |  Optimización sin restricciones: Segundo Orden. Optimización con restricciones: Multiplicadores de Lagrange y Condiciones KKT |   [YT - Intuition behind the Lagrangian](https://www.youtube.com/watch?v=GR4ff0dTLTw)   | 
 |      04       |  Clase taller y Examen   |      | 
 |      05       |  Optimización con restricciones: Programacion Lineal - Simplex  |      | 
 |      06       |  Programacion Lineal - Punto Interior   |      | 
