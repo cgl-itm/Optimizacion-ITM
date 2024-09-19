@@ -9,10 +9,10 @@ Material para curso de Optimización en Ingeniería Electrónica y Telecomunicac
 |      03       |  Optimización sin restricciones: Segundo Orden. Optimización con restricciones: Multiplicadores de Lagrange y Condiciones KKT |   [YT - Intuition behind the Lagrangian](https://www.youtube.com/watch?v=GR4ff0dTLTw)   | 
 |      04       |  Clase taller y Examen   |      | 
 |      05       |  Optimización con restricciones: Programacion Lineal - Simplex  y Punto Interior|      | 
-|      06       |     |      | 
-|      07       |  Tecnicas NLP - QPM ALM LBM |      | 
-|      08       |  Examen LP y KKT. Taller Tecnicas NLP  |      | 
-|      09       |  Programacion Entera Mixta - MIP, MILP, MINLP y Clase Taller  |      | 
+|      06       |  Tecnicas NLP - Aproximacion a problemas sin restricciones  |      | 
+|      07       |  Tecnicas NLP - Aproximacion a problemas simples con restricciones y Taller Tecnicas NLP |      | 
+|      08       |  Examen LP y KKT. Programacion Entera Mixta - MIP, MILP, MINLP y Clase Taller    |      | 
+|      09       |    |      | 
 |      10       |  Examen Tecnicas NLP y MINLP. Optimizacion Heuristica  |      | 
 |      11       |  Optimizacion Heuristica 2 |      | 
 
