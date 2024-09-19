@@ -49,10 +49,12 @@ Nelson Uhan - [Notebook](https://github.com/nelsonuhan/simplex)
 # Telecommunications
 ## Least Squares 
 * [Least Squares Channel Estimation of an OFDM Massive MIMO System for 5G Wireless Communications](https://link.springer.com/chapter/10.1007/978-3-030-21009-0_43)
-* [Least Squares Inference for Data with Network Dependency](https://arxiv.org/abs/2404.01977)
+* [Adaptive least squares channel estimation for visible light communications based on tap detection](https://www.sciencedirect.com/science/article/pii/S0030401820302534)
+  
 ## Antenna Design
 * [Optimization Methods in Antenna Engineering
 ](https://link.springer.com/referenceworkentry/10.1007/978-981-4560-44-3_15)
+
 ## Several Examples
 * [Optimization for the Telecommunications Industry -  Gurobi](https://www.gurobi.com/industry/optimization-for-the-telecommunications-industry/) <br>
 * [Cell tower optimization problem - Gurobi](https://www.gurobi.com/jupyter_models/cell-tower-coverage-problem/)
