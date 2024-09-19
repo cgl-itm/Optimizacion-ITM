@@ -39,8 +39,7 @@ Nelson Uhan - [Notebook](https://github.com/nelsonuhan/simplex)
 * [mealPy](https://github.com/thieu1995/mealpy)
 * [EvoloPy](https://github.com/7ossam81/EvoloPy)
 * [MetaHeuristic.jl - Julia](https://github.com/jmejia8/Metaheuristics.jl)
-* 
-
+  
 # Cursos similares
 * [Mathematical Optimization - Stanford](https://web.stanford.edu/group/sisl/k12/optimization/#!index.md) 
 * [Machine Learning Refined - Optimization animations](https://github.com/jermwatt/machine_learning_refined) 
@@ -48,6 +47,7 @@ Nelson Uhan - [Notebook](https://github.com/nelsonuhan/simplex)
 * [Solmaz - Mathematical Optimizacion](https://solmaz.eng.uci.edu/Teaching/mae206.html)
 
 # Telecommunications
+[Least Squares Channel Estimation of an OFDM Massive MIMO System for 5G Wireless Communications](https://link.springer.com/chapter/10.1007/978-3-030-21009-0_43)
 [Optimization Methods in Antenna Engineering
 ](https://link.springer.com/referenceworkentry/10.1007/978-981-4560-44-3_15) <br>
 [Optimization for the Telecommunications Industry -  Gurobi](https://www.gurobi.com/industry/optimization-for-the-telecommunications-industry/) <br>
