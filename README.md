@@ -11,8 +11,8 @@ Material para curso de Optimización en Ingeniería Electrónica y Telecomunicac
 |      05       |  Optimización con restricciones: Programacion Lineal - Simplex  y Punto Interior|      | 
 |      06       |  Tecnicas NLP - Aproximacion a problemas sin restricciones  |      | 
 |      07       |  Tecnicas NLP - Aproximacion a problemas simples con restricciones y Taller Tecnicas NLP |      | 
-|      08       |  Examen LP y KKT. Programacion Entera Mixta - MIP, MILP, MINLP y Clase Taller    |      | 
-|      09       |    |      | 
+|      08       |  Examen LP y KKT. Programación Entera Mixta - MIP, MILP, MINLP  |      | 
+|      09       | Clase Taller  MIP  |      | 
 |      10       |  Examen Tecnicas NLP y MINLP. Optimizacion Heuristica  |      | 
 |      11       |  Optimizacion Heuristica 2 |      | 
 
