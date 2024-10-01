@@ -48,6 +48,7 @@ Nelson Uhan - [Notebook](https://github.com/nelsonuhan/simplex)
 
 # Telecommunications
 ## Least Squares 
+* [Coherent Detection of Turbo-Coded OFDM Signals Transmitted Through Frequency Selective Rayleigh Fading Channels with Receiver Diversity and Increased Throughput](https://link.springer.com/article/10.1007/s11277-015-2303-8)
 * [Least Squares Channel Estimation of an OFDM Massive MIMO System for 5G Wireless Communications](https://link.springer.com/chapter/10.1007/978-3-030-21009-0_43)
 * [Adaptive least squares channel estimation for visible light communications based on tap detection](https://www.sciencedirect.com/science/article/pii/S0030401820302534)
   
