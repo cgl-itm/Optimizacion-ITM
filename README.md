@@ -55,6 +55,7 @@ Nelson Uhan - [Notebook](https://github.com/nelsonuhan/simplex)
 ## Antenna Design
 * [Optimization Methods in Antenna Engineering
 ](https://link.springer.com/referenceworkentry/10.1007/978-981-4560-44-3_15)
+* [Optimization Strategies for Efficient Antenna Design](https://link.springer.com/chapter/10.1007/978-3-030-51260-6_18)
 
 ## Several Examples
 * [Optimization for the Telecommunications Industry -  Gurobi](https://www.gurobi.com/industry/optimization-for-the-telecommunications-industry/) <br>
