@@ -47,6 +47,7 @@ Nelson Uhan - [Notebook](https://github.com/nelsonuhan/simplex)
 * [Machine Learning Refined - Optimization animations](https://github.com/jermwatt/machine_learning_refined) 
 * [Optim - Repositorio con material en Optimizacion](https://github.com/MerkulovDaniil/optim/tree/master)
 * [Solmaz - Mathematical Optimization](https://solmaz.eng.uci.edu/Teaching/mae206.html)
+* [Optimization for ML](https://www.lamsade.dauphine.fr/%7Ecroyer/teachOID.html)
 
 # Telecommunications
 ## Least Squares 
