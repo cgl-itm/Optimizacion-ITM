@@ -19,22 +19,22 @@ Material para curso de Optimización en Ingeniería Electrónica y Telecomunicac
 |      13       |  Surrogate Optimization |      | 
 
 # Libros
-[Numerical Optimization - J. Nocedal & S.J. Writght](https://link.springer.com/content/pdf/10.1007/978-0-387-40065-5.pdf) <br>
-[Introduction to Optimization - E.K.P. Chong and S.H. Zak](https://github.com/benjamincrom/optimization/blob/master/An%20Introduction%20to%20Optimization-%20E.%20Chong%2C%20S.%20Zak.pdf) <br>
-[Optimizacion Convexa - Alejandro Garces](https://repositorio.utp.edu.co/bitstreams/4c8af0a3-0988-450c-9618-0bb9d8a04a27/download) <br>
-[Convex Optimization - Boyd](https://web.stanford.edu/~boyd/cvxbook/) <br>
-[Formulacion y Resolucion de problema de Programacion Matematica - Atonio Conejo](https://eco.mdp.edu.ar/cendocu/repositorio/00216.pdf) <br>
+* [Numerical Optimization - J. Nocedal & S.J. Writght](https://link.springer.com/content/pdf/10.1007/978-0-387-40065-5.pdf)
+* [Introduction to Optimization - E.K.P. Chong and S.H. Zak](https://github.com/benjamincrom/optimization/blob/master/An%20Introduction%20to%20Optimization-%20E.%20Chong%2C%20S.%20Zak.pdf)
+* [Optimizacion Convexa - Alejandro Garces](https://repositorio.utp.edu.co/bitstreams/4c8af0a3-0988-450c-9618-0bb9d8a04a27/download)
+* [Convex Optimization - Boyd](https://web.stanford.edu/~boyd/cvxbook/)
+* [Formulacion y Resolucion de problema de Programacion Matematica - Atonio Conejo](https://eco.mdp.edu.ar/cendocu/repositorio/00216.pdf)
 
 # Librerias de Optimizacion en Python
-[Modeling and Solving Optimization Problems - Keivan Tafakkori](https://www.supplychaindataanalytics.com/modeling-and-solving-optimization-problems-in-python/) <br>
+* [Modeling and Solving Optimization Problems - Keivan Tafakkori](https://www.supplychaindataanalytics.com/modeling-and-solving-optimization-problems-in-python/)
 
 ## Programas Lineales
-Nelson Uhan - [Notebook](https://github.com/nelsonuhan/simplex)
+* Nelson Uhan - [Notebook](https://github.com/nelsonuhan/simplex)
 
 ## Programacion Entera Mixta (MIP)
-[Scipy MIP](https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.milp.html) <br>
-[MIP Python](https://python-mip.readthedocs.io/en/latest/examples.html) <br>
-[PuLP](https://coin-or.github.io/pulp/CaseStudies/index.html) <br>
+* [Scipy MIP](https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.milp.html)
+* [MIP Python](https://python-mip.readthedocs.io/en/latest/examples.html)
+* [PuLP](https://coin-or.github.io/pulp/CaseStudies/index.html)
 
 ## Algoritmos Metaheuristicos
 * [pyMetaheuristic](https://github.com/Valdecy/pyMetaheuristic)
