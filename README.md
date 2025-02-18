@@ -66,10 +66,9 @@ Material para curso de Optimización en Ingeniería Electrónica y Telecomunicac
 
 # Notebooks
 ## Gradiente
-[Steepest Descent](https://github.com/mkozturk/notebooks/blob/master/Rosenbrock%2C%20steepest%20descent.ipynb) <br>
-[Newton's Method](https://github.com/mkozturk/notebooks/blob/master/Rosenbrock%2C%20Newton's%20method.ipynb) <br>
-[Quasi-Newton Method](https://github.com/mkozturk/notebooks/blob/master/Rosenbrock%2C%20quasi-Newton%20methods.ipynb) <br>
-[Comparacion entre GD, SGD, Adam, Adagrad, RMSProp](https://github.com/bradleyboyuyang/Gradient-Descent/blob/master/GD_visualization.ipynb)
+* [Steepest Descent](https://github.com/mkozturk/notebooks/blob/master/Rosenbrock%2C%20steepest%20descent.ipynb)
+* [Newton's Method](https://github.com/mkozturk/notebooks/blob/master/Rosenbrock%2C%20Newton's%20method.ipynb) 
+* [Quasi-Newton Method](https://github.com/mkozturk/notebooks/blob/master/Rosenbrock%2C%20quasi-Newton%20methods.ipynb) 
 
 # Links
 * [Awesome Optimization](https://github.com/ebrahimpichka/awesome-optimization?tab=readme-ov-file#video-lectures-and-courses)
