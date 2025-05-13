@@ -43,6 +43,7 @@ Material para curso de Optimización en Ingeniería Electrónica y Telecomunicac
 * [mealPy](https://github.com/thieu1995/mealpy)
 * [EvoloPy](https://github.com/7ossam81/EvoloPy)
 * [MetaHeuristic.jl - Julia](https://github.com/jmejia8/Metaheuristics.jl)
+* [Ejemplo Genetic Car](https://rednuht.org/genetic_cars_2/)
   
 # Cursos similares
 * [Mathematical Optimization - Stanford](https://web.stanford.edu/group/sisl/k12/optimization/#!index.md) 
