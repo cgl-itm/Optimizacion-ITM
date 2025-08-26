@@ -73,5 +73,6 @@ Material para curso de Optimización en Ingeniería Electrónica y Telecomunicac
 * [Newton's Method](https://github.com/mkozturk/notebooks/blob/master/Rosenbrock%2C%20Newton's%20method.ipynb) 
 * [Quasi-Newton Method](https://github.com/mkozturk/notebooks/blob/master/Rosenbrock%2C%20quasi-Newton%20methods.ipynb) 
 * [Optimization in Deep Learning](https://artemoppermann.com/optimization-in-deep-learning-adagrad-rmsprop-adam/)
+* [Overview of different optimizers for neural networks](https://medium.datadriveninvestor.com/overview-of-different-optimizers-for-neural-networks-e0ed119440c3)
 # Links
 * [Awesome Optimization](https://github.com/ebrahimpichka/awesome-optimization?tab=readme-ov-file#video-lectures-and-courses)
