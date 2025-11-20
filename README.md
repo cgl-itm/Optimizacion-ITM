@@ -29,6 +29,7 @@ Material para curso de Optimización en Ingeniería Electrónica y Telecomunicac
 
 # Librerias de Optimizacion en Python
 * [Modeling and Solving Optimization Problems - Keivan Tafakkori](https://www.supplychaindataanalytics.com/modeling-and-solving-optimization-problems-in-python/)
+* [Bayesian Optimizacion - Python](https://github.com/bayesian-optimization/BayesianOptimization/tree/master)
 
 ## Programas Lineales
 * Nelson Uhan - [Notebook](https://github.com/nelsonuhan/simplex)
