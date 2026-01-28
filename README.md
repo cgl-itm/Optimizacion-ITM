@@ -26,6 +26,7 @@ Material para curso de Optimización en Ingeniería Electrónica y Telecomunicac
 * [Convex Optimization - Boyd](https://web.stanford.edu/~boyd/cvxbook/)
 * [Formulacion y Resolucion de problema de Programacion Matematica - Atonio Conejo](https://eco.mdp.edu.ar/cendocu/repositorio/00216.pdf)
 * [Linear Programming and Algorithms for Communication Networks](http://ndl.ethernet.edu.et/bitstream/123456789/33961/1/5.pdf.pdf)
+* [MO-BOOK: Hands-On Mathematical Optimization with AMPL in Python](https://ampl.com/mo-book/index.html)
 
 # Librerias de Optimizacion en Python
 * [Modeling and Solving Optimization Problems - Keivan Tafakkori](https://www.supplychaindataanalytics.com/modeling-and-solving-optimization-problems-in-python/)
@@ -65,8 +66,9 @@ Material para curso de Optimización en Ingeniería Electrónica y Telecomunicac
 * [Optimization Strategies for Efficient Antenna Design](https://link.springer.com/chapter/10.1007/978-3-030-51260-6_18)
 
 ## Several Examples
-* [Optimization for the Telecommunications Industry -  Gurobi](https://www.gurobi.com/industry/optimization-for-the-telecommunications-industry/) <br>
+* [Optimization for the Telecommunications Industry -  Gurobi](https://www.gurobi.com/industry/optimization-for-the-telecommunications-industry/)
 * [Cell tower optimization problem - Gurobi](https://www.gurobi.com/jupyter_models/cell-tower-coverage-problem/)
+* [Examples using AMPL and StreamLit](https://amplopt.streamlit.app/)
 
 # Notebooks
 ## Gradiente
