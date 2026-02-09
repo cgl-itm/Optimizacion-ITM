@@ -17,7 +17,7 @@ Material para curso de Optimización en Ingeniería Electrónica y Telecomunicac
 |      11       |  Optimizacion Heuristica 2 - PSO |      | 
 |      12       |  Optimizacion Heuristica 3 - Geneticos |      | 
 |      13       |  Surrogate Optimization |      | 
-|      14       |  Aprendizaje Autonatico en Optimización |      | 
+|      14       |  Aprendizaje Automático en Optimización |      | 
 
 # Libros
 * [Numerical Optimization - J. Nocedal & S.J. Writght](https://link.springer.com/content/pdf/10.1007/978-0-387-40065-5.pdf)
