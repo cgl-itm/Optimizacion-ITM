@@ -24,6 +24,7 @@ Material para curso de Optimización en Ingeniería Electrónica y Telecomunicac
 * [Introduction to Optimization - E.K.P. Chong and S.H. Zak](https://github.com/benjamincrom/optimization/blob/master/An%20Introduction%20to%20Optimization-%20E.%20Chong%2C%20S.%20Zak.pdf)
 * [Optimizacion Convexa - Alejandro Garces](https://repositorio.utp.edu.co/bitstreams/4c8af0a3-0988-450c-9618-0bb9d8a04a27/download)
 * [Convex Optimization - Boyd](https://web.stanford.edu/~boyd/cvxbook/)
+* [Bayesian Optimizacion - Garnett](https://bayesoptbook.com/book/bayesoptbook.pdf)
 * [Formulacion y Resolucion de problema de Programacion Matematica - Antonio Conejo](https://eco.mdp.edu.ar/cendocu/repositorio/00216.pdf)
 * [Linear Programming and Algorithms for Communication Networks](http://ndl.ethernet.edu.et/bitstream/123456789/33961/1/5.pdf.pdf)
 * [MO-BOOK: Hands-On Mathematical Optimization with AMPL in Python](https://ampl.com/mo-book/index.html)
