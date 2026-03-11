@@ -13,9 +13,9 @@ Material para curso de Optimización en Ingeniería Electrónica y Telecomunicac
 |      07       |  [Punto Interior](https://github.com/cgl-itm/Optimizacion-ITM/blob/main/slides/06_LP_Punto_Interior.pdf)  <br>  Examen KKT y LP|      | 
 |      08       |   Tecnicas NLP - [Aproximacion a problemas sin restricciones](https://github.com/cgl-itm/Optimizacion-ITM/blob/main/slides/07_TecnicasNLP.pdf) Tecnicas NLP - Aproximacion a problemas simples con restricciones y  |      | 
 |      09       | Taller Tecnicas NLP <br> Programación Entera Mixta - MIP, MILP, MINLP   |      | 
-|      10       |  Clase Taller  MIP <br> Examen Tecnicas NLP y MINLP. Optimizacion Heuristica  |      | 
-|      11       |  Optimizacion Heuristica 2 - PSO |      | 
-|      12       |  Optimizacion Heuristica 3 - Geneticos |      | 
+|      10       |  Clase Taller  MIP <br> Examen Tecnicas NLP y MINLP  |      | 
+|      11       |  Optimizacion Heuristica - PSO |      | 
+|      12       |  Optimizacion Heuristica - Geneticos |      | 
 |      13       |  Surrogate Optimization |      | 
 |      14       |  Aprendizaje Automático en Optimización |      | 
 
