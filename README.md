@@ -9,11 +9,11 @@ Material para curso de Optimización en Ingeniería Electrónica y Telecomunicac
 |      03       |  **Optimización sin restricciones**: [Segundo Orden, Newton.](https://github.com/cgl-itm/Optimizacion-ITM/blob/main/slides/03_OptSinRestricciones-Gradiente.pdf)  |      | 
 |      04       |  Clase Taller KKT. <br> Examen Conceptos Optimizacion y Gradiente.   |  [YT - Intuition behind the Lagrangian](https://www.youtube.com/watch?v=GR4ff0dTLTw) <br> [Notebook - Optimizacion con restricciones KKT](https://github.com/cgl-itm/Optimizacion-ITM/blob/main/notebooks/06_OptConRestricciones_Lagrange.ipynb) <br> [Taller 2 - KKT](https://github.com/cgl-itm/Optimizacion-ITM/blob/main/Talleres/2_Taller_KKT.pdf)  | 
 |      05       |  **Optimización con restricciones**: [Multiplicadores de Lagrange y Condiciones KKT](https://github.com/cgl-itm/Optimizacion-ITM/blob/main/slides/04_OptConRestricciones.pdf) <br>  |  [Notebook - Método Simplex](https://github.com/cgl-itm/Optimizacion-ITM/blob/main/notebooks/07_Simplex_LP.ipynb) <br> [Taller 3 - Programacion Lineal](https://github.com/cgl-itm/Optimizacion-ITM/blob/main/Talleres/3_Taller_LP.pdf)  | 
-|      06       |  Optimización con restricciones: [Programacion Lineal - Simplex](https://github.com/cgl-itm/Optimizacion-ITM/blob/main/slides/05_ProgLineal.pdf). <br> [Punto Interior](https://github.com/cgl-itm/Optimizacion-ITM/blob/main/slides/06_LP_Punto_Interior.pdf)   |      | 
-|      07       |  Tecnicas NLP - [Aproximacion a problemas sin restricciones](https://github.com/cgl-itm/Optimizacion-ITM/blob/main/slides/07_TecnicasNLP.pdf) <br> Examen KKT y LP|      | 
-|      08       |   Tecnicas NLP - Aproximacion a problemas simples con restricciones y Taller Tecnicas NLP |      | 
-|      09       | Programación Entera Mixta - MIP, MILP, MINLP <br> Clase Taller  MIP  |      | 
-|      10       |  Examen Tecnicas NLP y MINLP. Optimizacion Heuristica  |      | 
+|      06       |  Optimización con restricciones: [Programacion Lineal - Simplex](https://github.com/cgl-itm/Optimizacion-ITM/blob/main/slides/05_ProgLineal.pdf). <br>  Clase taller |      | 
+|      07       |  [Punto Interior](https://github.com/cgl-itm/Optimizacion-ITM/blob/main/slides/06_LP_Punto_Interior.pdf)  <br>  Examen KKT y LP|      | 
+|      08       |   Tecnicas NLP - [Aproximacion a problemas sin restricciones](https://github.com/cgl-itm/Optimizacion-ITM/blob/main/slides/07_TecnicasNLP.pdf) Tecnicas NLP - Aproximacion a problemas simples con restricciones y  |      | 
+|      09       | Taller Tecnicas NLP <br> Programación Entera Mixta - MIP, MILP, MINLP   |      | 
+|      10       |  Clase Taller  MIP <br> Examen Tecnicas NLP y MINLP. Optimizacion Heuristica  |      | 
 |      11       |  Optimizacion Heuristica 2 - PSO |      | 
 |      12       |  Optimizacion Heuristica 3 - Geneticos |      | 
 |      13       |  Surrogate Optimization |      | 
