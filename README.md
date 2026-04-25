@@ -28,6 +28,7 @@ Material para curso de Optimización en Ingeniería Electrónica y Telecomunicac
 * [Formulacion y Resolucion de problema de Programacion Matematica - Antonio Conejo](https://eco.mdp.edu.ar/cendocu/repositorio/00216.pdf)
 * [Linear Programming and Algorithms for Communication Networks](http://ndl.ethernet.edu.et/bitstream/123456789/33961/1/5.pdf.pdf)
 * [MO-BOOK: Hands-On Mathematical Optimization with AMPL in Python](https://ampl.com/mo-book/index.html)
+* [An Introduction to Optimization - With Application to Machine Learning](https://online.fliphtml5.com/bfxi/qiiv/#p=1)
 
 # Librerias de Optimizacion en Python
 * [Modeling and Solving Optimization Problems - Keivan Tafakkori](https://www.supplychaindataanalytics.com/modeling-and-solving-optimization-problems-in-python/)
