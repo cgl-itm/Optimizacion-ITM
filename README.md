@@ -11,13 +11,14 @@ Material para curso de Optimización en Ingeniería Electrónica y Telecomunicac
 |      05       |  **Optimización con restricciones**: [Multiplicadores de Lagrange y Condiciones KKT](https://github.com/cgl-itm/Optimizacion-ITM/blob/main/slides/04_OptConRestricciones.pdf) <br>  |  [Notebook - Método Simplex](https://github.com/cgl-itm/Optimizacion-ITM/blob/main/notebooks/07_Simplex_LP.ipynb) <br> [Taller 3 - Programacion Lineal](https://github.com/cgl-itm/Optimizacion-ITM/blob/main/Talleres/3_Taller_LP.pdf)  | 
 |      06       |  Optimización con restricciones: [Programacion Lineal - Simplex](https://github.com/cgl-itm/Optimizacion-ITM/blob/main/slides/05_ProgLineal.pdf). <br>  Clase taller |      | 
 |      07       |  [Punto Interior](https://github.com/cgl-itm/Optimizacion-ITM/blob/main/slides/06_LP_Punto_Interior.pdf)  <br>  Examen KKT y LP|      | 
-|      08       |   Tecnicas NLP - [Aproximacion a problemas sin restricciones](https://github.com/cgl-itm/Optimizacion-ITM/blob/main/slides/07_TecnicasNLP.pdf) <br> Tecnicas NLP - Aproximacion a problemas simples con restricciones |      | 
+|      08       |   Técnicas NLP - [Aproximacion a problemas sin restricciones](https://github.com/cgl-itm/Optimizacion-ITM/blob/main/slides/07_TecnicasNLP.pdf) <br> Tecnicas NLP - Aproximación a problemas simples con restricciones |      | 
 |      09       | Taller Tecnicas NLP <br> Programación Entera Mixta - MIP, MILP, MINLP   |      | 
-|      10       |  Clase Taller  MIP <br> Examen Tecnicas NLP y MINLP  |      | 
-|      11       |  Optimizacion Heuristica - PSO |      | 
-|      12       |  Optimizacion Heuristica - Geneticos |      | 
-|      13       |  Surrogate Optimization |      | 
-|      14       |  Aprendizaje Automático en Optimización |      | 
+|      10       |  Clase Taller  MIP <br> Examen Técnicas NLP y MINLP |      | 
+|      11       |  Optimizacion Heuristica - PSO: Teoría y Práctica. |      | 
+|      12       |  Optimizacion Heuristica - Geneticos: Teoría y Práctica. |      |
+|      13       |  Entrega Proyecto Proyecto Metaheuristico |      |
+|      14       |  Surrogate Optimization |      | 
+|      15       |  Aprendizaje Automático en Optimización |      |
 
 # Libros
 * [Numerical Optimization - J. Nocedal & S.J. Writght](https://link.springer.com/content/pdf/10.1007/978-0-387-40065-5.pdf)
