@@ -14,11 +14,12 @@ Material para curso de Optimización en Ingeniería Electrónica y Telecomunicac
 |      08       |   Técnicas NLP - [Aproximacion a problemas sin restricciones](https://github.com/cgl-itm/Optimizacion-ITM/blob/main/slides/07_TecnicasNLP.pdf) <br> Tecnicas NLP - Aproximación a problemas simples con restricciones |      | 
 |      09       | Taller Tecnicas NLP <br> Programación Entera Mixta - MIP, MILP, MINLP   |      | 
 |      10       |  Clase Taller  MIP <br> Examen Técnicas NLP y MINLP |      | 
-|      11       |  Optimizacion Heuristica - PSO: Teoría y Práctica. |      | 
-|      12       |  Optimizacion Heuristica - Geneticos: Teoría y Práctica. |      |
-|      13       |  Entrega Proyecto Proyecto Metaheuristico |      |
-|      14       |  Surrogate Optimization |      | 
-|      15       |  Aprendizaje Automático en Optimización |      |
+|      11       |  Optimizacion Heuristica - PSO: Teoría y Práctica. | Documento Proyecto  Metaheurístico    | 
+|      12       |  Optimizacion Heuristica - Genéticos: Teoría y Práctica. <br> Verificación avance proyecto|      |
+|      13       |  Entrega Proyecto Proyecto Metaheurístico <br> Surrogate Optimization |   Documento Proyecto Final   |
+|      14       |  Surrogate Optimization 2 |     | 
+|      15       |  Aprendizaje Automático en Optimización <br> Verificación avance proyecto |      |
+|      16       |  Entrega Proyecto Final |      |
 
 # Libros
 * [Numerical Optimization - J. Nocedal & S.J. Writght](https://link.springer.com/content/pdf/10.1007/978-0-387-40065-5.pdf)
